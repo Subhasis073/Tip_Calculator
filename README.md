@@ -5,11 +5,11 @@ A simple Python program that helps you calculate how much each person should pay
 
 **How It Works**
 
-1.Greets the user.
-2.Asks for the total bill amount.
-3.Asks for the desired tip percentage.
-4.Asks how many people will split the bill.
-5.Calculates each person's share, including the tip, and displays the amount rounded to 2 decimal places.
+1. Greets the user.
+2. Asks for the total bill amount.
+3. Asks for the desired tip percentage.
+4. Asks how many people will split the bill.
+5. Calculates each person's share, including the tip, and displays the amount rounded to 2 decimal places.
 
 
 **Operators used:**
